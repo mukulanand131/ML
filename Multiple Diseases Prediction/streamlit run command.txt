@@ -1,1 +1,0 @@
-streamlit run "C:\Users\mukul\OneDrive\Documents\one drive backup\Desktop\Multiple Diseases Prediction\multiple_diseases_pred.py"
